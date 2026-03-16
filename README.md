@@ -1,0 +1,1 @@
+# qrcode-py\n\nZero-dependency Python CLI.\n\n```bash\npython3 qrcode.py\n```\n
